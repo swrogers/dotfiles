@@ -10,5 +10,6 @@
         path: bin/
         create: true
     ~/.xinitrc: xinitrc
-
+    ~/.spacemacs: spacemacs
+    ~/.angular-config.json: angular-config.json
 
