@@ -1,0 +1,6 @@
+My dotfiles directory.
+
+This uses Dotbot to assist with the creation of the symlinks, which comes
+from https://github.com/anishathalye/dotfiles.
+
+Git clone this directory, then run the 'install' script.
